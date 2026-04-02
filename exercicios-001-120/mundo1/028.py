@@ -10,4 +10,4 @@ if num_user == num:
     print('Você acertou o número!')
 
 else:
-    print('Você errou o número kkkkkkkkkkkkkkkkkkkkk')
+    print('Você errou o número!')
