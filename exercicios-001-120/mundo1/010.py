@@ -1,5 +1,3 @@
-#Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
-
 r = float(input('Quantos reias voê tem? '))
 dolar = 5.27
 
