@@ -1,1 +1,0 @@
-#não encontrei módulos na minha versão do python

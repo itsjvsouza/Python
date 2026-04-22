@@ -1,6 +1,6 @@
 # Curso em Vídeo Python
 
-Repositório dedicado aos exercícios realizados durante os 4 cursos de python do Curso em Vídeo.
+Repository dedicated to the exercises completed during the 4 Python courses by Curso em Vídeo.
 
-## [📂 Mundo 1](exercicios-001-120/mundo1/README.md)
-## [📂 Mundo 2](exercicios-001-120/mundo2/README.md)
+## [📂 World 1](exercises-001-120/world1/README.md)
+## [📂 World 2](exercises-001-120/world2/README.md)
