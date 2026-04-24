@@ -1,6 +1,8 @@
 ### [Back](../../README.md)
 # World 2
 
+
+## Conditional Statements:
 ### [036](036.py)
 Write a program to approve a bank loan for purchasing a house. Ask for the house value, the buyer's salary, and how many years they will pay. The monthly installment cannot exceed 30% of the salary; otherwise, the loan will be denied.
 
@@ -31,6 +33,7 @@ Create a program that calculates the amount to be paid for a product, considerin
 ### [045](045.py)
 Create a program that makes the computer play Rock Paper Scissors with you.
 
+## For Loop:
 ### [046](046.py)
 Create a program that shows a countdown on the screen for a fireworks display, going from 10 down to 0, with a 1-second pause between them.
 
@@ -64,6 +67,7 @@ Create a program that reads the weight of five people. At the end, show which wa
 ### [056](056.py)
 Develop a program that reads the name, age, and gender of 4 people. At the end of the program, show: the average age of the group, what is the name of the oldest man, and how many women are under 20 years old.
 
+## While Loop:
 ### [057](057.py)
 Create a program that reads a person's gender but only accepts the values 'M' or 'F'. If it is wrong, ask for input again until a correct value is provided.
 

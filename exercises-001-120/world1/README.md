@@ -1,12 +1,14 @@
 ### [Back](../../README.md)
 # World 1
 
+## Getting Started:
 ### [001](001.py)
 Create a program that displays the message "Hello, world" on the screen.
 
 ### [002](002.py)
 Create a program that reads a person's name and displays a welcome message.
 
+## Processing Data and Doing Calculations:
 ### [003](003.py)
 Create a program that reads two numbers and shows the sum between them.
 
@@ -46,6 +48,7 @@ Write a program that converts a temperature entered in °C to °F.
 ### [015](015.py)
 Write a program that asks for the number of km traveled by a rented car and the number of days for which it was rented. Calculate the price to pay, knowing that the car costs R$ 60 per day and R$ 0.15 per km driven.
 
+## Using Modules:
 ### [016](016.py)
 Create a program that reads any real number from the keyboard and displays its integer portion on the screen.
 
@@ -82,8 +85,9 @@ Create a program that reads a phrase from the keyboard and shows how many times 
 ### [027](027.py)
 Create a program that reads a person's full name, then displays the first and last names separately.
 
+## Conditional Statements:
 ### [028](028.py)
-Write a program that makes the computer "think" of an integer between 0 and 5 and asks the user to try to find out which number was chosen by the computer. The program should write on the screen whether the user won or lost.
+Write a program that makes the computer "think" of an integer between 0 and 5 and asks the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost.
 
 ### [029](029.py)
 Write a program that reads the speed of a car. If it exceeds 80km/h, show a message saying that it has been fined. The fine will cost R$ 7.00 for each km over the limit.
